@@ -2,7 +2,7 @@
 Katalon Studio Xpath and Screenshot 
 
 Create a folder named "temp" on C Drive (C:) 
-Altered the scripts
+Altered the scripts for XPath and Screenshot function
 
 Steps: 
 1. Select desktop browsers like Google Chrome/ Mozilla Firefox/ Microsoft Edge/ Safari 
